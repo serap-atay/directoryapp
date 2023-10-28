@@ -1,16 +1,12 @@
-# directoryappwithblock
+# Directory App
 
-A new Flutter project.
+Flutter project - A simple guide app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The application includes a contact list, contact detail information and new registration screens.
+Within the application, any person can be updated in the contact book, a new record can be created, the existing contact record can be deleted and the desired person can be searched in the contact book.
 
-A few resources to get you started if this is your first Flutter project:
+It is configured with BLoC methods for state management and Firebase methods for repo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
